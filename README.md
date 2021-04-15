@@ -1,2 +1,2 @@
-# flexbox-practices
+# first-project-codesandbox
 Created with CodeSandbox
