@@ -1,7 +1,7 @@
 {
-  "name": "flexbox-practice",
+  "name": "flexbox-correct",
   "version": "1.0.0",
-  "description": "The first practices utilising the flexbox technology",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
